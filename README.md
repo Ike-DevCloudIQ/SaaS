@@ -1,8 +1,8 @@
 ## Build SaaS Product with Next.js and FastAPI
 
-Today you'll build a complete full-stack application with a React frontend and Python backend, all deployed to production on Vercel.
+Today I'll build a complete full-stack application with a React frontend and Python backend, all deployed to production on Vercel.
 
-## What You'll Build
+## What I'll Build
 
 A **Business Idea Generator** - an AI-powered SaaS application that:
 - Has a modern React frontend built with Next.js (using Pages Router for stability)
