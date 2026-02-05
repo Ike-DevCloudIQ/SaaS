@@ -635,3 +635,11 @@ In this project, we used client-side components because we needed browser featur
 - Make sure all files are saved before deploying
 - Check that vercel.json is properly formatted
 - Ensure your API key is added to Vercel environment variables
+
+## Screenshots
+
+### Deployment Process
+![Deployment Terminal](screenshots/deployment-terminal.png)
+
+### Live Application
+![Business Idea Generator App](screenshots/business-idea-generator.png)
