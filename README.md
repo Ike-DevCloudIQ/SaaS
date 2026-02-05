@@ -641,5 +641,19 @@ In this project, we used client-side components because we needed browser featur
 ### Deployment Process
 ![Deployment Terminal](screenshots/deployment-terminal.png)
 
+**Successful deployment to production** - This screenshot demonstrates the complete Git workflow and successful deployment to Vercel. It shows:
+- All files committed and pushed to the GitHub repository (Ike-DevCloudIQ/SaaS)
+- Vercel's automatic deployment triggered from the Git push
+- Production URL generated and live at `https://saas-4p6xjwwb8-ikenna-ubahs-projects.vercel.app`
+- The full-stack application deployed with both Next.js frontend and Python FastAPI backend running seamlessly on Vercel's platform
+
 ### Live Application
 ![Business Idea Generator App](screenshots/business-idea-generator.png)
+
+**AI-powered Business Idea Generator in action** - This screenshot showcases the completed SaaS application generating real-time AI business ideas. Key features demonstrated:
+- Clean, modern UI built with Next.js, TypeScript, and Tailwind CSS
+- Real-time AI response streaming from OpenAI's GPT model
+- Beautiful Markdown rendering with the Tailwind Typography plugin
+- Full-stack integration: React frontend communicating with FastAPI backend
+- Production-ready application generating detailed business ideas including value propositions and core features
+- Example output: "FlowAgent" - an AI-powered no-code platform for SMB automation, showcasing the app's ability to generate comprehensive, market-ready business concepts
